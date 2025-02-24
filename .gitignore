@@ -15,3 +15,5 @@ staticfiles/
 node_modules/
 .next/
 .env.local
+
+.idea/
